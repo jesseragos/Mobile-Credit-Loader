@@ -1,0 +1,1308 @@
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09981234567
+Preceded load: P1764.68		Surf duration: 7 days
+Data allocation: 500 MB		Total/Latest Load Balance: P1674.68
+Receipt Code: EBE8870		Transaction Time: 11:11:54 PM | Apr 09, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09981234567
+Preceded load: P1674.68		App/site choice(s): [Twitter] [Youtube] 
+Data allocation: 300 MB		Total/Latest Load Balance: P1654.68
+Receipt Code: JHG8809		Transaction Time: 11:14:14 PM | Apr 09, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09023356745
+PIN input: 22121607218687		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: EBF1630		Transaction Time: 11:27:20 PM | Apr 09, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09023356745
+Preceded load: P500.0		Network scope: All Network
+Text limits: 20 texts		Promo Cost: P8.0
+Total/Latest Load Balance: P492.0
+Receipt Code: GFH1715		Transaction Time: 11:27:44 PM | Apr 09, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09023356745
+Preceded load: P492.0		App/site choice(s): [Facebook] [Twitter] 
+Data allocation: 25 MB		Promo Cost: P4.0
+Total/Latest Load Balance: P488.0
+Receipt Code: EHC8309		Transaction Time: 11:28:08 PM | Apr 09, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09161169021
+PIN input: 09239308663304		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: HCG8720		Transaction Time: 10:56:39 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09161169021
+PIN input: 01600588211249		Preceded load: P500.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P1,000.00
+Receipt Code: AAE9005		Transaction Time: 10:57:03 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09161169021
+PIN input: 07529787192793		Preceded load: P1,000.00
+PIN Load Denomination: P500,000,000.00	Total/Latest Load Balance: P500,001,000.00
+Receipt Code: ACI1599		Transaction Time: 10:58:07 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09161169021
+Preceded load: P5.00001E8		Network scope: All Network
+Call duration: 12 hours		Promo Cost: P10.0
+Total/Latest Load Balance: P5.0000099E8
+Receipt Code: DAB9237		Transaction Time: 10:58:30 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09161169021
+Preceded load: P5.0000099E8		Network scope: All Network
+Call duration: 12 hours		Promo Cost: P10.0
+Total/Latest Load Balance: P5.0000098E8
+Receipt Code: AAF5043		Transaction Time: 11:01:37 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09161169021
+Preceded load: P5.0000098E8		Network scope: All Network
+Call duration: 12 hours		Promo Cost: P10.0
+Total/Latest Load Balance: P5.0000097E8
+Receipt Code: GEI3477		Transaction Time: 11:02:10 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09237028944
+PIN input: 01347535435823		Preceded load: P0.00
+PIN Load Denomination: P5,000,000,000,000,000.00	Total/Latest Load Balance: P5,000,000,000,000,000.00
+Receipt Code: EIC0552		Transaction Time: 11:03:34 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09237028944
+Preceded load: P5.0E15		Network scope: All Network
+Call duration: 5 hours		Promo Cost: P40.0
+Total/Latest Load Balance: P4.99999999999996E15
+Receipt Code: JEH1410		Transaction Time: 11:04:04 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09237028944
+Preceded load: P4.99999999999996E15		Load sent: P5.0E9
+Charge: P1.0		Total/Latest Load Balance: P4.999994999999959E15
+Receipt Code: BAF7214		Transaction Time: 11:06:03 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09237028944
+Preceded load: P4.999994999999959E15		Load sent: P1.0E7
+Charge: P1.0		Total/Latest Load Balance: P4.999994989999958E15
+Receipt Code: JDH7249		Transaction Time: 11:06:48 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09274870850
+PIN input: 30201182745918		Preceded load: P0.00
+PIN Load Denomination: P500,000,000.00	Total/Latest Load Balance: P500,000,000.00
+Receipt Code: JIH4942		Transaction Time: 11:20:39 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09179537878
+PIN input: 42194506868300		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: BEF3739		Transaction Time: 11:22:57 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09179537878
+Preceded load: P500.0		Network scope: All Network
+Text limits: 50 texts		Promo Cost: P16.0
+Total/Latest Load Balance: P484.0
+Receipt Code: DEB6939		Transaction Time: 11:23:27 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09179537878
+Preceded load: P484.0		App/site choice(s): [Facebook] [Youtube] 
+Data allocation: 300 MB		Promo Cost: P20.0
+Total/Latest Load Balance: P464.0
+Receipt Code: BDE6256		Transaction Time: 11:24:47 AM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09200000000
+Preceded load: P6.0		App/site choice(s): [Facebook] [Youtube] 
+Data allocation: 50 MB		Promo Cost: P6.0
+Total/Latest Load Balance: P0.0
+Receipt Code: AAG1255		Transaction Time: 01:12:22 PM | Apr 10, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09032118999
+PIN input: 68658163468971		Preceded load: P300.00
+PIN Load Denomination: P300.00	Total/Latest Load Balance: P600.00
+Receipt Code: GEE5359		Transaction Time: 07:45:24 PM | Apr 11, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09032118999
+PIN input: 64247381453391		Preceded load: P300.00
+PIN Load Denomination: P300.00	Total/Latest Load Balance: P600.00
+Receipt Code: HHC6659		Transaction Time: 07:51:23 PM | Apr 11, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09032118999
+Preceded load: P600.0		Network scope: All Network
+Call duration: 30 minutes		Promo Cost: P20.0
+Total/Latest Load Balance: P580.0
+Receipt Code: HGC3024		Transaction Time: 07:55:49 PM | Apr 11, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09032118999
+Preceded load: P580.0		Load sent: P10.0
+Charge: P1.0		Total/Latest Load Balance: P569.0
+Receipt Code: CGJ8165		Transaction Time: 08:01:46 PM | Apr 11, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P4153.25		App/site choice(s): [Twitter] [Youtube] 
+Data allocation: 25 MB		Promo Cost: P4.0
+Total/Latest Load Balance: P4149.25
+Receipt Code: IFB7674		Transaction Time: 10:36:13 PM | Apr 11, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P4149.25		Network scope: Local Network
+Call duration: 30 minutes		Promo Cost: P10.0
+Total/Latest Load Balance: P4139.25
+Receipt Code: EAE3509		Transaction Time: 10:36:54 PM | Apr 11, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P4139.25		Surf duration: 1 day
+Data allocation: 800 MB		Promo Cost: P50.0
+Total/Latest Load Balance: P4089.25
+Receipt Code: DIJ0595		Transaction Time: 10:44:33 PM | Apr 11, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P4089.25		Load sent: P0.0
+Charge: P1.0		Total/Latest Load Balance: P4088.25
+Receipt Code: DED5927		Transaction Time: 11:16:21 PM | Apr 11, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P4088.25		Load sent: P0.0
+Charge: P1.0			Total/Latest Load Balance: P4087.25
+Receipt Code: CGB0657		Transaction Time: 12:18:08 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P4087.25		Load sent: P0.0
+Charge: P1.0			Total/Latest Load Balance: P4086.25
+Receipt Code: HFJ7786		Transaction Time: 12:18:17 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P4086.25		Load sent: P0.001
+Charge: P1.0			Total/Latest Load Balance: P4085.249
+Receipt Code: HBG2638		Transaction Time: 12:21:29 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P4086.25		Load sent: P1.0
+Charge: P1.0			Total/Latest Load Balance: P4084.25
+Receipt Code: GBF2797		Transaction Time: 12:27:30 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P4084.25		App/site choice(s): [Facebook] [Twitter] [Youtube] [Viber] 
+Data allocation: 300 MB		Promo Cost: P40.0
+Total/Latest Load Balance: P4044.25
+Receipt Code: HAE9771		Transaction Time: 12:38:08 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P4044.25		Network scope: Local Network
+Text limits: 5 texts		Promo Cost: P1.0
+Total/Latest Load Balance: P4043.25
+Receipt Code: FIA3389		Transaction Time: 12:51:43 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P4043.25		Network scope: Local Network
+Text limits: 5 texts		Promo Cost: P1.0
+Total/Latest Load Balance: P4042.25
+Receipt Code: CFG5524		Transaction Time: 12:51:59 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P4042.25		Network scope: Local Network
+Text limits: 5 texts		Promo Cost: P1.0
+Total/Latest Load Balance: P4041.25
+Receipt Code: FDB3108		Transaction Time: 12:53:16 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P4041.25		Surf duration: 1 day
+Data allocation: 100 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P4031.25
+Receipt Code: CGB4293		Transaction Time: 12:53:44 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P4031.25		App/site choice(s): [Facebook] [Twitter] [Youtube] [Viber] 
+Data allocation: 25 MB		Promo Cost: P8.0
+Total/Latest Load Balance: P4023.25
+Receipt Code: CHB1947		Transaction Time: 12:53:57 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P4023.25		Network scope: Local Network
+Text limits: 5 texts		Promo Cost: P1.0
+Total/Latest Load Balance: P4022.25
+Receipt Code: CFJ9562		Transaction Time: 12:54:03 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P4022.25		Network scope: Local Network
+Text limits: 5 texts		Promo Cost: P1.0
+Total/Latest Load Balance: P4021.25
+Receipt Code: CBB0264		Transaction Time: 12:55:34 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09032118999
+Preceded load: P569.0		Network scope: Local Network
+Text limits: 5 texts		Promo Cost: P1.0
+Total/Latest Load Balance: P568.0
+Receipt Code: HIE2956		Transaction Time: 12:57:28 AM | Apr 12, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 89798672325529		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: CGD2402		Transaction Time: 07:49:15 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 72540266650022		Preceded load: P500.00
+PIN Load Denomination: P300.00	Total/Latest Load Balance: P800.00
+Receipt Code: HCB9156		Transaction Time: 07:49:42 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 80714824516035		Preceded load: P800.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P900.00
+Receipt Code: JBF0703		Transaction Time: 07:49:53 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 75551462737265		Preceded load: P900.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P1,000.00
+Receipt Code: DGG4518		Transaction Time: 07:50:10 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P1000.0		Network scope: Local Network
+Text limits: 5 texts		Promo Cost: P1.0
+Total/Latest Load Balance: P999.0
+Receipt Code: JFJ0295		Transaction Time: 07:51:25 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P999.0		App/site choice(s): [Facebook] [Youtube] [Viber] 
+Data allocation: 25 MB		Promo Cost: P6.0
+Total/Latest Load Balance: P993.0
+Receipt Code: DGH7350		Transaction Time: 07:51:50 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P993.0		Network scope: All Network
+Call duration: 1 hour		Promo Cost: P30.0
+Total/Latest Load Balance: P963.0
+Receipt Code: JCF5654		Transaction Time: 07:53:20 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P963.0		Load sent: P962.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: CCF9353		Transaction Time: 07:57:36 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 36361500007801		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: HGD0926		Transaction Time: 08:05:10 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P500.0		Surf duration: 5 days
+Data allocation: 800 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P490.0
+Receipt Code: FGE1568		Transaction Time: 08:09:56 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09213354614
+PIN input: 17289687869612		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: ICJ4036		Transaction Time: 08:15:40 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09213354614
+Preceded load: P500.0		App/site choice(s): [Youtube] [Viber] 
+Data allocation: 25 MB		Promo Cost: P4.0
+Total/Latest Load Balance: P496.0
+Receipt Code: CBJ1445		Transaction Time: 08:16:23 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09213354614
+Preceded load: P496.0		Load sent: P495.5
+Charge: P1.0			Total/Latest Load Balance: P-0.5
+Receipt Code: GHE9928		Transaction Time: 08:19:31 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09213354614
+PIN input: 42518252560734		Preceded load: P0.50
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P100.50
+Receipt Code: GHB9086		Transaction Time: 08:30:03 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09213354614
+Preceded load: P100		Load sent: P99.5
+Charge: P1.0			Total/Latest Load Balance: P-0.5
+Receipt Code: IGH2540		Transaction Time: 08:32:08 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09213354614
+Preceded load: P100		Load sent: P98.6
+Charge: P1.0			Total/Latest Load Balance: P0.4000000000000057
+Receipt Code: BEF5490		Transaction Time: 08:48:48 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09213354614
+Preceded load: P100		Load sent: P98.7
+Charge: P1.0			Total/Latest Load Balance: P0.3
+Receipt Code: FFF9992		Transaction Time: 09:12:00 PM | Apr 13, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 90757072014036		Preceded load: P490.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P990.00
+Receipt Code: BHJ4717		Transaction Time: 09:00:51 AM | Apr 14, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09023356745
+PIN input: 44341441840120		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: FBI8414		Transaction Time: 09:04:49 AM | Apr 14, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09163607855
+PIN input: 64555749500106		Preceded load: P0.00
+PIN Load Denomination: P300.00	Total/Latest Load Balance: P300.00
+Receipt Code: JAH0066		Transaction Time: 12:28:48 PM | Apr 14, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09163607855
+Preceded load: P300.0		Network scope: Local Network
+Call duration: 1 hour		Promo Cost: P15.0
+Total/Latest Load Balance: P285.0
+Receipt Code: EJC7659		Transaction Time: 12:30:07 PM | Apr 14, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09163607855
+Preceded load: P285.0		Load sent: P30.0
+Charge: P1.0			Total/Latest Load Balance: P254.0
+Receipt Code: EBC4489		Transaction Time: 12:31:29 PM | Apr 14, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09209875667
+Preceded load: P594.2		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P574.2
+Receipt Code: CEF4031		Transaction Time: 08:55:43 PM | Apr 15, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09209875667
+Preceded load: P574.2		Network scope: All Network
+Text limits: 1 day		Promo Cost: P160.0
+Total/Latest Load Balance: P414.20000000000005
+Receipt Code: GAC0246		Transaction Time: 09:15:56 PM | Apr 15, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09023356745
+Preceded load: P500.0		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P480.0
+Receipt Code: DDH1343		Transaction Time: 09:39:01 PM | Apr 15, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09209875667
+Preceded load: P414.2		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P394.2
+Receipt Code: CJH4836		Transaction Time: 09:39:46 PM | Apr 15, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09209875667
+Preceded load: P394.2		Surf duration: 7 days
+Data allocation: 500 MB		Promo Cost: P90.0
+Total/Latest Load Balance: P304.2
+Receipt Code: AHF6328		Transaction Time: 09:41:06 PM | Apr 15, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P990.0		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P985.0
+Receipt Code: FIH7745		Transaction Time: 09:44:43 PM | Apr 15, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09213354614
+PIN input: 68455200091610		Preceded load: P0.30
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P100.30
+Receipt Code: CJG5761		Transaction Time: 09:47:09 PM | Apr 15, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P985.0		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P980.0
+Receipt Code: ACD1088		Transaction Time: 09:00:25 AM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P980.0		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P960.0
+Receipt Code: AHE9269		Transaction Time: 01:28:29 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P960.0		App/site choice(s): [Facebook] [Twitter] [Viber] 
+Data allocation: 150 MB		Promo Cost: P21.0
+Total/Latest Load Balance: P939.0
+Receipt Code: DCG2704		Transaction Time: 01:28:48 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09199315559
+PIN input: 18738363814018		Preceded load: P0.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P100.00
+Receipt Code: JBA4898		Transaction Time: 01:30:56 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09199315559
+Preceded load: P100.0		Network scope: All Network
+Text limits: 5 days		Promo Cost: P160.0
+Total/Latest Load Balance: P-60.0
+Receipt Code: GAB3027		Transaction Time: 01:31:39 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P10.0		App/site choice(s): [Facebook] [Twitter] [Youtube] [Viber] 
+Data allocation: 25 MB		Promo Cost: P8.0
+Total/Latest Load Balance: P2.0
+Receipt Code: FEA8031		Transaction Time: 01:38:19 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P207.451		Load sent: P207.0
+Charge: P1.0			Total/Latest Load Balance: P-0.55
+Receipt Code: AFH7014		Transaction Time: 01:46:23 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P207.451		Load sent: P206.9
+Charge: P1.0			Total/Latest Load Balance: P-0.45
+Receipt Code: HFE9655		Transaction Time: 01:48:25 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P207.451		Load sent: P206.9
+Charge: P1.0			Total/Latest Load Balance: P-0.45
+Receipt Code: JIE0934		Transaction Time: 01:49:23 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P207.451		Load sent: P206.9
+Charge: P1.0			Total/Latest Load Balance: P-0.45
+Receipt Code: HIE5547		Transaction Time: 01:54:34 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P207.451		Load sent: P206.0
+Charge: P1.0			Total/Latest Load Balance: P0.45
+Receipt Code: FGA2008		Transaction Time: 02:01:08 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09161172161
+PIN input: 25330665571258		Preceded load: P0.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P100.00
+Receipt Code: EDH1395		Transaction Time: 02:41:43 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09161172161
+Preceded load: P100.0		Network scope: Local Network
+Text limits: 5 days		Promo Cost: P80.0
+Total/Latest Load Balance: P20.0
+Receipt Code: AGH2181		Transaction Time: 02:42:38 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09392179502
+PIN input: 41223512508499		Preceded load: P0.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P100.00
+Receipt Code: BEH4787		Transaction Time: 04:35:31 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: IBF2896		Transaction Time: 04:37:17 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.9
+Charge: P1.0			Total/Latest Load Balance: P-0.9
+Receipt Code: DDG3575		Transaction Time: 04:39:11 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.9
+Charge: P1.0			Total/Latest Load Balance: P-0.9
+Receipt Code: IJE5898		Transaction Time: 04:45:38 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.9
+Charge: P1.0			Total/Latest Load Balance: P-0.9
+Receipt Code: HAB4161		Transaction Time: 04:47:25 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P98.0
+Charge: P1.0			Total/Latest Load Balance: P1.0
+Receipt Code: GGF2656		Transaction Time: 04:49:45 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: GIJ6743		Transaction Time: 04:51:55 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P98.9921
+Charge: P1.0			Total/Latest Load Balance: P0.01
+Receipt Code: HIH6433		Transaction Time: 04:52:55 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: AGF0943		Transaction Time: 05:49:59 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: EHG3759		Transaction Time: 05:50:50 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P98.33
+Charge: P1.0			Total/Latest Load Balance: P0.67
+Receipt Code: HAB2740		Transaction Time: 05:51:54 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P98.44444223
+Charge: P1.0			Total/Latest Load Balance: P0.56
+Receipt Code: FIA5252		Transaction Time: 05:53:31 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: IGG6182		Transaction Time: 05:59:51 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P98.3421
+Charge: P1.0			Total/Latest Load Balance: P0.66
+Receipt Code: DJD0020		Transaction Time: 06:02:08 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P98.008
+Charge: P1.0			Total/Latest Load Balance: P0.99
+Receipt Code: JCD8844		Transaction Time: 06:03:35 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P76.02
+Charge: P1.0			Total/Latest Load Balance: P22.98
+Receipt Code: BDC4156		Transaction Time: 06:13:48 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P98.0
+Charge: P1.0			Total/Latest Load Balance: P1.0
+Receipt Code: GEE1172		Transaction Time: 06:38:06 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: AAJ5647		Transaction Time: 06:42:29 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: IGD8095		Transaction Time: 06:43:13 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: GCJ0823		Transaction Time: 06:45:49 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P100.0		Load sent: P21.0
+Charge: P1.0			Total/Latest Load Balance: P78.0
+Receipt Code: HJG8111		Transaction Time: 06:52:08 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09392179502
+Preceded load: P78.0		Load sent: P1.0
+Charge: P1.0			Total/Latest Load Balance: P76.0
+Receipt Code: FIE0329		Transaction Time: 06:56:31 PM | Apr 16, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 78605883700354		Preceded load: P0.45
+PIN Load Denomination: P300.00	Total/Latest Load Balance: P300.45
+Receipt Code: BCJ8895		Transaction Time: 10:03:11 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P300.45		App/site choice(s): [Youtube] 
+Data allocation: 25 MB		Promo Cost: P2.0
+Total/Latest Load Balance: P298.45
+Receipt Code: ECG2307		Transaction Time: 10:10:56 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P298.45		Load sent: P297.0
+Charge: P1.0			Total/Latest Load Balance: P0.45
+Receipt Code: DBB4141		Transaction Time: 10:17:32 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09282114352
+PIN input: 38087720563298		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: DCJ0971		Transaction Time: 10:29:38 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09282114352
+Preceded load: P500.0		Load sent: P499.0
+Charge: P1.0			Total/Latest Load Balance: P0.0
+Receipt Code: BEE3644		Transaction Time: 10:31:31 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P932.45		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P912.45
+Receipt Code: EFE4717		Transaction Time: 10:47:11 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P912.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P907.45
+Receipt Code: GJJ2534		Transaction Time: 10:47:25 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P907.45		Surf duration: 1 day
+Data allocation: 100 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P897.45
+Receipt Code: CIH1585		Transaction Time: 10:47:33 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P897.45		App/site choice(s): [Facebook] [Viber] 
+Data allocation: 25 MB		Promo Cost: P4.0
+Total/Latest Load Balance: P893.45
+Receipt Code: FEG0133		Transaction Time: 10:47:55 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P893.45		Load sent: P9.0
+Charge: P1.0			Total/Latest Load Balance: P883.45
+Receipt Code: FGE0244		Transaction Time: 10:49:28 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P883.45		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P863.45
+Receipt Code: CFD6846		Transaction Time: 10:56:50 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P863.45		App/site choice(s): [Viber] 
+Data allocation: 300 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P853.45
+Receipt Code: FBA4079		Transaction Time: 10:57:37 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09023356745
+Preceded load: P480.0		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P475.0
+Receipt Code: IBC7994		Transaction Time: 10:58:28 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09199315559
+Preceded load: P60.0		Surf duration: 1 day
+Data allocation: 100 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P50.0
+Receipt Code: AGA4374		Transaction Time: 10:59:12 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09023356745
+Preceded load: P475.0		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P470.0
+Receipt Code: DFH6454		Transaction Time: 11:03:15 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09161172161
+Preceded load: P20.0		App/site choice(s): [Facebook] [Twitter] [Youtube] [Viber] 
+Data allocation: 25 MB		Promo Cost: P8.0
+Total/Latest Load Balance: P12.0
+Receipt Code: JDI3514		Transaction Time: 11:10:19 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09358352196
+Preceded load: P306.0		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P286.0
+Receipt Code: ADJ1242		Transaction Time: 11:41:38 PM | Apr 17, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P853.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P848.45
+Receipt Code: DBJ2294		Transaction Time: 12:29:28 PM | Apr 18, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P848.45		Surf duration: 1 day
+Data allocation: 100 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P838.45
+Receipt Code: EH3736SNP		Transaction Time: 01:42:12 PM | Apr 18, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 50388951213165		Preceded load: P838.45
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P1,338.45
+Receipt Code: HB4770PNL		Transaction Time: 07:37:28 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P1338.45		App/site choice(s): [Facebook] [Twitter] 
+Data allocation: 150 MB		Promo Cost: P14.0
+Total/Latest Load Balance: P1324.45
+Receipt Code: CD6073SAP		Transaction Time: 07:38:23 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P1324.45		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P1304.45
+Receipt Code: HD4864TPS		Transaction Time: 07:38:52 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P0.45		Load sent: P1303.0
+Charge: P1.0			Total/Latest Load Balance: P0.45
+Receipt Code: CA6698SLA		Transaction Time: 07:39:23 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P1103.45		Load sent: P200.0
+Charge: P1.0			Total/Latest Load Balance: P1103.45
+Receipt Code: CH5290SLA		Transaction Time: 07:40:55 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P1103.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P1098.45
+Receipt Code: FF1250CPS		Transaction Time: 07:42:00 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P1098.45		Load sent: P1.0
+Charge: P1.0			Total/Latest Load Balance: P1096.45
+Receipt Code: AB2235SLA		Transaction Time: 08:31:07 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P1096.45		Surf duration: 1 day
+Data allocation: 100 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P1086.45
+Receipt Code: HA1103SNP		Transaction Time: 09:17:29 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P1086.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P1081.45
+Receipt Code: CE5410CPS		Transaction Time: 09:53:07 PM | Apr 19, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P1081.45		App/site choice(s): [Facebook] [Youtube] [Viber] 
+Data allocation: 150 MB		Promo Cost: P21.0
+Total/Latest Load Balance: P1060.45
+Receipt Code: JF9638SAP		Transaction Time: 07:51:49 PM | Apr 20, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P1060.45		App/site choice(s): [Facebook] [Twitter] [Youtube] [Viber]
+Data allocation: 25 MB		Promo Cost: P8.0
+Total/Latest Load Balance: P1052.45
+Receipt Code: EB8880SAP		Transaction Time: 09:19:08 PM | Apr 20, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P1052.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P1047.45
+Receipt Code: FH4108CPS		Transaction Time: 09:22:25 PM | Apr 20, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09209875667
+Preceded load: P304.2		Surf duration: 7 days
+Data allocation: 500 MB		Promo Cost: P90.0
+Total/Latest Load Balance: P214.2
+Receipt Code: DI9170SNP		Transaction Time: 11:49:26 PM | Apr 20, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P1047.45		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P1027.45
+Receipt Code: IE4592TPS		Transaction Time: 08:37:03 AM | Apr 21, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P1027.45		Network scope: All Network
+Text limits: 5 days		Promo Cost: P160.0
+Total/Latest Load Balance: P867.45
+Receipt Code: HA1765TPS		Transaction Time: 08:56:55 AM | Apr 21, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P867.45		Network scope: All Network
+Call duration: 5 hours		Promo Cost: P40.0
+Total/Latest Load Balance: P827.45
+Receipt Code: CF4951CPS		Transaction Time: 12:53:01 PM | Apr 21, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P827.45		Network scope: All Network
+Call duration: 5 hours		Promo Cost: P40.0
+Total/Latest Load Balance: P787.45
+Receipt Code: CC3693CPS		Transaction Time: 12:54:00 PM | Apr 21, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P787.45		Surf duration: 5 days
+Data allocation: 800 MB		Promo Cost: P300.0
+Total/Latest Load Balance: P487.45
+Receipt Code: GI0694SNP		Transaction Time: 12:57:44 PM | Apr 21, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P487.45		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P467.45
+Receipt Code: JJ4664TPS		Transaction Time: 07:06:40 PM | Apr 23, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P467.45		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P447.45
+Receipt Code: IH6164TPS		Transaction Time: 10:43:04 PM | Apr 23, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P447.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P442.45
+Receipt Code: CH2285CPS		Transaction Time: 10:50:27 PM | Apr 23, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P442.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P437.45
+Receipt Code: EI2649CPS		Transaction Time: 11:42:54 PM | Apr 23, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P437.45		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P417.45
+Receipt Code: EE6707TPS		Transaction Time: 12:08:25 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P417.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P412.45
+Receipt Code: BB5813CPS		Transaction Time: 09:24:40 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P412.45		App/site choice(s): [Twitter] [Youtube] [Viber]
+Data allocation: 25 MB		Promo Cost: P6.0
+Total/Latest Load Balance: P406.45
+Receipt Code: FD7231SAP		Transaction Time: 09:27:44 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09213354614
+Preceded load: P101.3		Surf duration: 7 days
+Data allocation: 300 MB		Promo Cost: P60.0
+Total/Latest Load Balance: P41.3
+Receipt Code: GA1961SNP		Transaction Time: 09:31:31 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P406.45		Network scope: Local Network
+Text limits: 5 days		Promo Cost: P80.0
+Total/Latest Load Balance: P326.45
+Receipt Code: DI2240TPS		Transaction Time: 09:55:19 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09023356745
+Preceded load: P470.0		App/site choice(s): [Facebook] [Twitter] [Youtube] [Viber]
+Data allocation: 25 MB		Promo Cost: P8.0
+Total/Latest Load Balance: P462.0
+Receipt Code: DH8821SAP		Transaction Time: 10:04:13 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P326.45		Network scope: All Network
+Call duration: 5 hours		Promo Cost: P40.0
+Total/Latest Load Balance: P286.45
+Receipt Code: AH3287CPS		Transaction Time: 10:12:10 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P286.45		App/site choice(s): [Facebook] [Viber]
+Data allocation: 300 MB		Promo Cost: P20.0
+Total/Latest Load Balance: P266.45
+Receipt Code: JI3216SAP		Transaction Time: 10:20:26 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09209875667
+Preceded load: P214.2		Surf duration: 1 day
+Data allocation: 800 MB		Promo Cost: P50.0
+Total/Latest Load Balance: P164.2
+Receipt Code: DD4847SNP		Transaction Time: 10:31:02 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09163607855
+PIN input: 37695259427990		Preceded load: P254.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P754.00
+Receipt Code: FF9974PNL		Transaction Time: 10:38:49 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09163607855
+Preceded load: P754.0		App/site choice(s): [Twitter] [Youtube]
+Data allocation: 50 MB		Promo Cost: P6.0
+Total/Latest Load Balance: P748.0
+Receipt Code: EF0364SAP		Transaction Time: 10:40:59 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09163607855
+Preceded load: P748.0		Surf duration: 1 day
+Data allocation: 100 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P738.0
+Receipt Code: BG2319SNP		Transaction Time: 10:42:11 AM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09199315559
+Preceded load: P50.0		Network scope: Local Network
+Text limits: 2 days		Promo Cost: P40.0
+Total/Latest Load Balance: P10.0
+Receipt Code: FF1650TPS		Transaction Time: 12:14:27 PM | Apr 24, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 44210898606558		Preceded load: P266.45
+PIN Load Denomination: P300.00	Total/Latest Load Balance: P566.45
+Receipt Code: EB0705PNL		Transaction Time: 01:07:52 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P566.45		Network scope: All Network
+Text limits: 1 day		Promo Cost: P40.0
+Total/Latest Load Balance: P526.45
+Receipt Code: FC3281TPS		Transaction Time: 01:23:40 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09392179502
+Preceded load: P76.0		Surf duration: 1 day
+Data allocation: 100 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P66.0
+Receipt Code: CD3013SNP		Transaction Time: 01:31:44 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P526.45		App/site choice(s): [Facebook] [Twitter] [Youtube] [Viber]
+Data allocation: 300 MB		Promo Cost: P40.0
+Total/Latest Load Balance: P486.45
+Receipt Code: GJ9881SAP		Transaction Time: 01:37:14 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 28858143322746		Preceded load: P486.45
+PIN Load Denomination: P300.00	Total/Latest Load Balance: P786.45
+Receipt Code: JC2596PNL		Transaction Time: 01:57:04 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P786.45		Network scope: All Network
+Call duration: 12 hours		Promo Cost: P60.0
+Total/Latest Load Balance: P726.45
+Receipt Code: JG0874CPS		Transaction Time: 01:59:01 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 26416911931081		Preceded load: P726.45
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P826.45
+Receipt Code: FA0604PNL		Transaction Time: 02:31:27 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09999999999
+Preceded load: P520.0		App/site choice(s): [Facebook]
+Data allocation: 50 MB		Promo Cost: P3.0
+Total/Latest Load Balance: P517.0
+Receipt Code: DI2408SAP		Transaction Time: 09:26:29 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09023356745
+Preceded load: P462.0		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P457.0
+Receipt Code: IG0654CPS		Transaction Time: 09:44:41 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09276795487
+Preceded load: P826.45		Surf duration: 1 day
+Data allocation: 500 MB		Promo Cost: P30.0
+Total/Latest Load Balance: P796.45
+Receipt Code: JB4754SNP		Transaction Time: 09:54:40 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09199315559
+Preceded load: P10.0		Surf duration: 1 day
+Data allocation: 100 MB		Promo Cost: P10.0
+Total/Latest Load Balance: P0.0
+Receipt Code: HE0267SNP		Transaction Time: 10:06:50 PM | Apr 25, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795487
+PIN input: 51951824869491		Preceded load: P796.45
+PIN Load Denomination: P300.00	Total/Latest Load Balance: P1,096.45
+Receipt Code: HC0339PNL		Transaction Time: 07:41:29 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09209875667
+PIN input: 27325637065783		Preceded load: P164.20
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P664.20
+Receipt Code: HH4711PNL		Transaction Time: 08:20:16 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09209875667
+PIN input: 27325637065783		Preceded load: P664.20
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P1,164.20
+Receipt Code: EA9646PNL		Transaction Time: 08:21:17 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09209875667
+Preceded load: P1164.2		Network scope: Local Network
+Text limits: 2 days		Promo Cost: P40.0
+Total/Latest Load Balance: P1124.2
+Receipt Code: HG7514TPS		Transaction Time: 08:23:36 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09209875667
+Preceded load: P1124.2		Load sent: P21.0
+Charge: P1.0			Total/Latest Load Balance: P1102.2
+Receipt Code: GI9091SLA		Transaction Time: 08:26:16 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795497
+PIN input: 26329798450979		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: FB7923PNL		Transaction Time: 08:37:34 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795497
+Preceded load: P500.0		Network scope: Local Network
+Text limits: 1 day		Promo Cost: P20.0
+Total/Latest Load Balance: P480.0
+Receipt Code: CC6942TPS		Transaction Time: 08:41:02 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795497
+Preceded load: P480.0		Load sent: P79.0
+Charge: P1.0			Total/Latest Load Balance: P400.0
+Receipt Code: FE6678SLA		Transaction Time: 08:41:48 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795497
+PIN input: 61319530540080		Preceded load: P400.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P500.00
+Receipt Code: ID9729PNL		Transaction Time: 08:42:08 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795497
+Preceded load: P500.0		App/site choice(s): [Facebook] [Twitter] [Youtube]
+Data allocation: 25 MB		Promo Cost: P6.0
+Total/Latest Load Balance: P494.0
+Receipt Code: AE0959SAP		Transaction Time: 08:55:09 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795497
+PIN input: 28624504170660		Preceded load: P494.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P594.00
+Receipt Code: JH1948PNL		Transaction Time: 08:55:47 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795497
+PIN input: 28624504170660		Preceded load: P594.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P694.00
+Receipt Code: FA9846PNL		Transaction Time: 08:56:23 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795497
+PIN input: 28624504170660		Preceded load: P694.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P794.00
+Receipt Code: CI9454PNL		Transaction Time: 08:57:05 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09213354614
+Preceded load: P62.3		Network scope: All Network
+Call duration: 10 minutes		Promo Cost: P10.0
+Total/Latest Load Balance: P52.3
+Receipt Code: AC1878CPS		Transaction Time: 09:08:32 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09023356745
+PIN input: 29776715808630		Preceded load: P457.00
+PIN Load Denomination: P100.00	Total/Latest Load Balance: P557.00
+Receipt Code: AC3663PNL		Transaction Time: 09:14:30 PM | Apr 26, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P1175.45		Load sent: P20.0
+Charge: P1.0			Total/Latest Load Balance: P1154.45
+Receipt Code: CB0061SLA		Transaction Time: 10:32:55 PM | Apr 28, 2015
+*********************************************************************************************************
+
+Transaction Type: Call Promo Subscription	Phone number: 09276795487
+Preceded load: P1154.45		Network scope: Local Network
+Call duration: 10 minutes		Promo Cost: P5.0
+Total/Latest Load Balance: P1149.45
+Receipt Code: JF1142CPS		Transaction Time: 11:21:58 PM | May 06, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09392179502
+PIN input: 50399779053056		Preceded load: P66.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P566.00
+Receipt Code: CJ5979PNL		Transaction Time: 10:49:19 PM | May 20, 2015
+*********************************************************************************************************
+
+Transaction Type: Internet Surf Promo Subscription	Phone number: 09392179502
+Preceded load: P566.0		Surf duration: 1 day
+Data allocation: 800 MB		Promo Cost: P50.0
+Total/Latest Load Balance: P516.0
+Receipt Code: GD1994SNP		Transaction Time: 10:50:42 PM | May 20, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795466
+Preceded load: P226.0		App/site choice(s): [Facebook] [Youtube]
+Data allocation: 300 MB		Promo Cost: P20.0
+Total/Latest Load Balance: P206.0
+Receipt Code: HF6888SAP		Transaction Time: 01:49:35 PM | May 31, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795466
+Preceded load: P206.0		Load sent: P20.0
+Charge: P1.0			Total/Latest Load Balance: P185.0
+Receipt Code: GJ6508SLA		Transaction Time: 01:51:06 PM | May 31, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09276795466
+PIN input: 52507791076877		Preceded load: P185.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P685.00
+Receipt Code: JC5292PNL		Transaction Time: 01:52:05 PM | May 31, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P1169.45		Load sent: P50.0
+Charge: P1.0			Total/Latest Load Balance: P1118.45
+Receipt Code: HD5378SLA		Transaction Time: 11:03:26 PM | Jun 08, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P1118.45		Load sent: P21.0
+Charge: P1.0			Total/Latest Load Balance: P1096.45
+Receipt Code: CH5007SLA		Transaction Time: 11:04:18 PM | Jun 08, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P1096.45		Load sent: P96.0
+Charge: P1.0			Total/Latest Load Balance: P999.45
+Receipt Code: FB8161SLA		Transaction Time: 10:07:38 PM | Jul 26, 2015
+*********************************************************************************************************
+
+Transaction Type: App Surf Promo Subscription	Phone number: 09276795466
+Preceded load: P852.0		App/site choice(s): [Facebook] [Twitter]
+Data allocation: 300 MB		Promo Cost: P20.0
+Total/Latest Load Balance: P832.0
+Receipt Code: HH6520SAP		Transaction Time: 01:41:41 PM | Aug 28, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795466
+Preceded load: P832.0		Load sent: P100.0
+Charge: P1.0			Total/Latest Load Balance: P731.0
+Receipt Code: BF6314SLA		Transaction Time: 01:43:15 PM | Aug 28, 2015
+*********************************************************************************************************
+
+Transaction Type: Share Load		Phone number: 09276795487
+Preceded load: P1099.45		Load sent: P99.0
+Charge: P1.0			Total/Latest Load Balance: P999.45
+Receipt Code: JG0873SLA		Transaction Time: 11:08:34 AM | Sep 11, 2015
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09276795487
+Preceded load: P999.45		Network scope: All Network
+Text limits: 5 days		Promo Cost: P160.0
+Total/Latest Load Balance: P839.45
+Receipt Code: AF3864TPS		Transaction Time: 11:09:22 AM | Sep 11, 2015
+*********************************************************************************************************
+
+Transaction Type: PIN Load		Phone number: 09289928741
+PIN input: 34663602145430		Preceded load: P0.00
+PIN Load Denomination: P500.00	Total/Latest Load Balance: P500.00
+Receipt Code: JH0305PNL		Transaction Time: 10:35:00 PM | Feb 04, 2016
+*********************************************************************************************************
+
+Transaction Type: Text Promo Subscription	Phone number: 09289928741
+Preceded load: P500.0		Network scope: All Network
+Text limits: 2 days		Promo Cost: P80.0
+Total/Latest Load Balance: P420.0
+Receipt Code: DF0305TPS		Transaction Time: 10:37:24 PM | Feb 04, 2016
+*********************************************************************************************************
+
